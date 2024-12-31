@@ -48,10 +48,7 @@ Hi, I'm Khoa Dang Nguyen!
 
 </p>
 <h3 id="️-databases-and-cloud-hosting">🗄️ Databases and Cloud Hosting</h3>
-<p>
-    <a href="https://github.com/Bouaskaoun"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&amp;logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&amp;logoColor=white"></a>
-</p>
+
 <h3 id="-software-and-tools">💻 Software and Tools</h3>
 <p>
     <a href="https://github.com/Bouaskaoun"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&amp;logoColor=white"></a>
@@ -93,35 +90,11 @@ Hi, I'm Khoa Dang Nguyen!
 <br/>
 -->
 <summary><b>⚡ Top Languages</b></summary>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dangkhoabo2002&" alt="dangkhoabo2002" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangkhoabo2002" alt="dangkhoabo2002" /></a></p>
 <br>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&amp;langs_count=8&amp;layout=compact" alt="bouaskaoun">
 	</a>
-	<br>
-<br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-<br>
-<table style="border: none">
-  <tbody><tr>
-  <td width="50%" valign="top">
-<h2 id="lets-work-on-your-project-together">Let’s Work on Your Project Together!</h2>
-<p>If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me.</p>
-<p>You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web.</p>
-  </td>
-  <td width="50%" valign="top">
-<h2 id="its-not-perfect-isnt-it">It’s not perfect, isn’t it?</h2>
-<p><strong><a href="https://github.com/Bouaskaoun"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a></strong></p>
-<p>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk</p>
-  </td>
-  </tr>
-</tbody></table>
-<hr>
-<p><a href="https://github.com/Bouaskaoun">Bouaskaoun</a></p>
-<p>Last Edited on: 19/07/2022</p> 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dangkhoabo2002&" alt="dangkhoabo2002" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangkhoabo2002" alt="dangkhoabo2002" /></a></p>
+<p>Last Edited on: 31/12/2024</p> 
