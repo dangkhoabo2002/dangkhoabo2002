@@ -8,7 +8,7 @@ Hi, I'm Khoa Dang Nguyen!
 <br>
 <p align="center">
 	<a href="https://github.com/dangkhoabo2002">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Web+Developer;Business+Analyst;Freelancer;BA%20|%20FE%20|%20Coder%20Enthusiastic;Always%20learning%20new%20things&amp;center=true&amp;width=380&amp;height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Website+Developer;Business+Analyst;Freelancer;BA%20|%20FE%20|%20Coder%20Enthusiastic;Always%20learning%20new%20things&amp;center=true&amp;width=380&amp;height=45">
 	</a>
 </p>
 <hr>
