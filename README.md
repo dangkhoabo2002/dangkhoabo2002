@@ -19,12 +19,12 @@ Hi, I'm Khoa Dang Nguyen!
 </pre>
 <hr>
 
-<h2 id="️-my-favorite-tools">    <a href="https://github.com/Bouaskaoun"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&amp;logoColor=black"></a>
-</h2>
+
 <h3 id="-programming-languages">👨‍💻 Programming Languages</h3>
 <p>
     <a href="https://github.com/Bouaskaoun"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&amp;logoColor=white"></a>
-</p><h3 id="-frameworks-and-libraries">🧰 Frameworks and Libraries</h3>
+</p>
+<h3 id="-frameworks-and-libraries">🧰 Frameworks and Libraries</h3>
 <p>
    <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
