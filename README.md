@@ -42,7 +42,8 @@ Hi, I'm Khoa Dang Nguyen!
 
 </p>
 <h3 id="️-databases-and-cloud-hosting">🗄️ Databases and Cloud Hosting</h3>
-
+<p><a target="_blank" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlBPl5Yre6JWvlAcM6L3O5K2idTibw6vKteg&s" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
+</p>
 <h3 id="-software-and-tools">💻 Software and Tools</h3>
 <p>
     <a href="https://github.com/Bouaskaoun"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&amp;logoColor=white"></a>
