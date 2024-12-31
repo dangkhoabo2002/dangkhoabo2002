@@ -4,14 +4,7 @@ Hi, I'm Khoa Dang Nguyen!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<p align="center">
-	<a href="https://github.com/dangkhoabo2002">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="bouaskaoun">
-	</a>
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun">
-	</a>
-</p>
+
 <br>
 <p align="center">
 	<a href="https://github.com/dangkhoabo2002">
