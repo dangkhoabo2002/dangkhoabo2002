@@ -48,16 +48,16 @@ Hi, I'm Khoa Dang Nguyen!
 <!--
 ### 👨🏽‍💻 Workspace
 <p>
-    <a href="https://github.com/dangkhoakow2002"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="https://github.com/dangkhoakow2002"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+    <a href="https://github.com/dangkhoabo2002"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
+    <a href="https://github.com/dangkhoabo2002"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 -->
-<h2 id="-github-stats"><a href="https://github.com/dangkhoakow2002"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats</h2>
+<h2 id="-github-stats"><a href="https://github.com/dangkhoabo2002"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats</h2>
 <br>
 <summary><b>⚡ Kow's Stats</b></summary>
 <br>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/dangkhoabo2002">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&amp;show_icons=true" alt="bouaskaoun">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
 	</a>
