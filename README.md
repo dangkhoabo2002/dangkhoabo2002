@@ -5,7 +5,7 @@ Hi, I'm Khoa Dang Nguyen!
 	</a>
 </h1>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/dangkhoabo2002">
 		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="bouaskaoun">
 	</a>
 	<a href="https://github.com/Bouaskaoun">
@@ -14,7 +14,7 @@ Hi, I'm Khoa Dang Nguyen!
 </p>
 <br>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/dangkhoabo2002">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&amp;center=true&amp;width=380&amp;height=45">
 	</a>
 </p>
