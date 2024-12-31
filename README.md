@@ -64,16 +64,7 @@ Hi, I'm Khoa Dang Nguyen!
 	<br>
 </p>
 <br>
-<!--
-<summary><b>⚡ Activity graph</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://activity-graph.herokuapp.com/graph?username=bouaskaoun&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="bouaskaoun">
-	</a>
-</p>
-<br/>
--->
+
 <summary><b>⚡ Top Languages</b></summary>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dangkhoabo2002&" alt="dangkhoabo2002" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangkhoabo2002" alt="dangkhoabo2002" /></a></p>
