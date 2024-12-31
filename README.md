@@ -54,16 +54,6 @@ Hi, I'm Khoa Dang Nguyen!
 -->
 <h2 id="-github-stats"><a href="https://github.com/dangkhoabo2002"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats</h2>
 <br>
-<summary><b>⚡ Kow's Stats</b></summary>
-<br>
-<p align="center">
-	<a href="https://github.com/dangkhoabo2002">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&amp;show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
-	</a>
-	<br>
-</p>
-<br>
 
 <summary><b>⚡ Top Languages</b></summary>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dangkhoabo2002&" alt="dangkhoabo2002" /></p>
