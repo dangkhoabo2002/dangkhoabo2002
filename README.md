@@ -18,13 +18,7 @@ Hi, I'm Khoa Dang Nguyen!
 🌟 Most used in project: Reactjs, JavaScript, React Native, HTML, CSS.
 </pre>
 <hr>
-<h2 id="-connect-with-me">🤝 Connect with me</h2>
-<p align="center">
-	<a href="mailto:bouaskaoun.mohammed@gmail.com"><img img="" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
-	<a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-	<a href="https://github.com/Bouaskaoun"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
-	<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle"></a>
-</p>
+
 <h2 id="️-my-favorite-tools">🛠️ My Favorite Tools</h2>
 <h3 id="-programming-languages">👨‍💻 Programming Languages</h3>
 <p>
