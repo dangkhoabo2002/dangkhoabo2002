@@ -19,14 +19,10 @@ Hi, I'm Khoa Dang Nguyen!
 	</a>
 </p>
 <hr>
-<pre>💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning &amp; Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+<pre>💻 I am a self taught Front End Developer and side-passionate with Bussiness Analyst.
+📚 I have a Graduate in Computer Science from the University FPT at Viet Nam.
+📝 I have a strong interest in Business and Technology.
+🌟 Most used in project: Reactjs, JavaScript, React Native, HTML, CSS.
 </pre>
 <hr>
 <h2 id="-connect-with-me">🤝 Connect with me</h2>
