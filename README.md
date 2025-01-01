@@ -45,6 +45,5 @@ Hi, I'm Khoa Dang Nguyen!
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 </p>
 <br>
-<!--
-
 <p>Last Edited on: 31/12/2024</p> 
+
