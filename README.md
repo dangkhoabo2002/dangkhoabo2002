@@ -46,20 +46,5 @@ Hi, I'm Khoa Dang Nguyen!
 </p>
 <br>
 <!--
-### 👨🏽‍💻 Workspace
-<p>
-    <a href="https://github.com/dangkhoabo2002"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="https://github.com/dangkhoabo2002"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</p>
--->
-<h2 id="-github-stats"><a href="https://github.com/dangkhoabo2002"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats</h2>
-<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dangkhoabo2002&" alt="dangkhoabo2002" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangkhoabo2002" alt="dangkhoabo2002" /></a></p>
-<br>
-<p align="center">
-	<a href="https://github.com/dangkhoabo2002">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoabo2002&amp;langs_count=8&amp;layout=compact" alt="dangkhoabo2002">
-	</a>
 <p>Last Edited on: 31/12/2024</p> 
